@@ -11,7 +11,11 @@ end
 lassie = Dog.new
 lassie.name = "Lassie"
 
+putin = Dog.new
+putin.name = "Russian"
+
 puts lassie.name
+puts putin.name
 
 
 
